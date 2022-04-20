@@ -10,5 +10,6 @@ Foi um exercício bem legal, onde pude exercitar e aprender muito mais do que eu
 - Layouts e posicionamento: Flexbox and CSS Grid
 - Efeitos e animações básicos
 - Criação de um editor de texto simples
-- Um "<select>" personalizado
+- Personalização de elementos "select" (confesso que subestimei essa parte, achei que seria super fácil!)
+- JavaScript e manipulação do DOM
 - Responsividade

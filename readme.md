@@ -2,11 +2,13 @@
 
 ## Teste frontend
 
-Omnifood is a fake food subscription company. This website was created as my final project for a HTML and CSS course, where I learnt:
+Este repositório é o meu resultado final do teste de Dev frontend da Chuva. Baseado num protótipo construído no figma, meu objetivo era criar o website e reproduzir suas funcionalidades.
 
-- HTML and CSS Fundamentals
-- Layouts: Floats, Flexbox and CSS Grid
-- Web Design rules and good practices
-- Components and Layout Patterns
-- Responsiveness
-- Basic effects and animations
+Foi um exercício bem legal, onde pude exercitar e aprender muito mais do que eu imaginava. As principais habilidades que desenvolvi durante o teste:
+
+- Conceitos fundamentais de HTML e CSS
+- Layouts e posicionamento: Flexbox and CSS Grid
+- Responsividade
+- Efeitos e animações básicos
+- Componentes como um editor de texto simples e um <select> personalizado
+

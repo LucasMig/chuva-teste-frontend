@@ -8,7 +8,7 @@ Foi um exercício bem legal, onde pude exercitar e aprender muito mais do que eu
 
 - Conceitos fundamentais de HTML e CSS
 - Layouts e posicionamento: Flexbox and CSS Grid
-- Responsividade
 - Efeitos e animações básicos
-- Componentes como um editor de texto simples e um <select> personalizado
-
+- Criação de um editor de texto simples
+- Um "<select>" personalizado
+- Responsividade
